@@ -1,12 +1,14 @@
-import React from 'react'
-import './HomeContainer.css'
-import PubgCraftonIcon from './images/pubg crafton.png'
-import TencentLogo from './images/tencentgames1.png'
-import QuantumLogo from './images/quantum.png'
-import PubgLogo from './images/pubg-logo-1.png'
-import Animate from 'animate.css-react'
-import 'animate.css/animate.css'
-import { motion } from 'framer-motion'
+import React from 'react';
+import './HomeContainer.css';
+import PubgCraftonIcon from './images/pubg crafton.png';
+import TencentLogo from './images/tencentgames1.png';
+import QuantumLogo from './images/quantum.png';
+import PubgLogo from './images/pubg-logo-1.png';
+import Animate from 'animate.css-react';
+import 'animate.css/animate.css';
+import { motion } from 'framer-motion';
+import Jamaica from './images/jamaica.png'
+
 
 function HomeContainer() {
     return (
@@ -30,6 +32,7 @@ function HomeContainer() {
                         <img className="pubg-icon" src={PubgCraftonIcon} alt=""/>
                         <img className="tencent-icon" src={TencentLogo} alt="" srcset=""/>
                         <img className="quanton-icon" src={QuantumLogo} alt=""/>
+                        <img className="jamaica-icon" src={Jamaica} alt=""/>
                         <h2 className="nse-icon">NSE</h2>
                     </div>
                 </motion.div>
@@ -51,7 +54,7 @@ function HomeContainer() {
             </div>
             
         </div>
-    )
-}
+    );
+};
 
-export default HomeContainer
+export default HomeContainer;

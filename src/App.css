@@ -5,5 +5,6 @@
 @media only screen and (max-width: 370px) {
    .app{
     width: 360px;
+    height: 812px;
    } 
 }

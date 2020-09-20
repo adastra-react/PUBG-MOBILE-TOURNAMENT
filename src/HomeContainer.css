@@ -188,21 +188,24 @@
 
   @media only screen and (max-width: 415px) {
         .grid-1{
-            height: 812px;
+            height: 100%;
             width: 100%;
         }
 
         .home-container{
             width: 100%;
-            height: 600px;
+            height: 812px;
         }
 
-        .main-text{}
+        .main-text{
+             display: flex;
+             align-items: center;
+        }
 
         .footer{
             
             transform: scale(0.5);
-            margin-bottom: 200px;
+            margin-bottom: 100px;
         }
 
         .text-box{

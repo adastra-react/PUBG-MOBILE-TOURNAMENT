@@ -62,7 +62,6 @@
     align-items: center;
 }
 
-
 .nse-icon{
     font-family: squartiqa;
     margin: 0 10px;
@@ -81,10 +80,7 @@
     margin: 0 10px;
 }
 
-
-
 .grid-1{
-  
     background-image:linear-gradient( rgba(246, 189, 0, 0.9), rgba(246, 189, 0, 0.9) ), url(./images/pubg-gb2.jpg);
     height: 100vh;
     background-size: cover;
@@ -107,14 +103,12 @@
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
-    align-items: ;
 }
 
 .grid-2-char-bg{
     height: 600px;
     bottom: 0;
 }
-
 
 .grid-2-char-cont{
     display: flex;
@@ -156,13 +150,8 @@
         height: 100px;
     }
 
-    .grid-2-logo-cont{
-     
-    }
-
     .grid-2{
         display: none;
-    
     }
 
     .grid-2-char-cont{
@@ -175,11 +164,7 @@
     .grid-2-char-bg{
         height: 400px;
     }
-
-    .grid-1{
-        transform: scale(0.6)
-    }
-    
+  
     .grid-2-logo{
         height: 200px;
         position: absolute;
@@ -203,15 +188,12 @@
         }
 
         .footer{
-            
             transform: scale(0.5);
             margin-bottom: 100px;
         }
 
         .text-box{
-
             margin-top:50px;
             margin-bottom: 0;
           }
-        
   }

@@ -1,0 +1,76 @@
+@font-face {
+    font-family: headliner45;
+    src: url(./fonts/headliner_no_45/HeadlinerNo.45\ DEMO.ttf);
+  }
+
+  @font-face {
+    font-family: squartiqa;
+    src: url(./fonts/Squartiqa_4F_Light_Italic/Squartiqa4FLight-Italic.otf);
+  }
+
+  @font-face {
+    font-family: verFont;
+    src: url(./fonts/Verb-Font/verbcondregular-webfont.ttf);
+  }
+
+  @font-face {
+    font-family: cityboys;
+    src: url(./fonts/cityboys/CityBoysSoft-Regular.otf);
+  }
+
+.contact-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+
+.footer{
+    height: 1000px;
+    background-color:#1e132b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.card-sub-text{
+    color: white;
+}
+
+.card-main-text{
+        color: white;
+        font-family: verFont;
+  }
+
+.card-cont{
+    display: flex;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.card{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20px;
+    width: 409px;
+    height: 220px;
+    margin: 0 20px;
+    padding: 10px 30px;
+}
+
+.card-img{
+    height: 70px;
+}
+
+.footer-info-cont{
+    display: flex;
+}
+
+.footer-logo{
+    height: 400px;
+}

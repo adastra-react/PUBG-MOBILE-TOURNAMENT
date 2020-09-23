@@ -1,0 +1,78 @@
+@font-face {
+    font-family: headliner45;
+    src: url(./fonts/headliner_no_45/HeadlinerNo.45\ DEMO.ttf);
+  }
+
+  @font-face {
+    font-family: squartiqa;
+    src: url(./fonts/Squartiqa_4F_Light_Italic/Squartiqa4FLight-Italic.otf);
+  }
+
+  @font-face {
+    font-family: verFont;
+    src: url(./fonts/Verb-Font/verbcondregular-webfont.ttf);
+  }
+
+  @font-face {
+    font-family: cityboys;
+    src: url(./fonts/cityboys/CityBoysSoft-Regular.otf);
+  }
+
+.more-inf{
+  height: ;
+}  
+
+li{
+    font-family: verFont;
+}
+
+  h1, h2{
+      font-family: squartiqa;
+  }
+
+.register-btn{
+    padding: 50px 70px;
+    font-size: 30px;
+    color: white;
+    font-family: squartiqa;
+    background-color: black;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+} 
+
+.register-btn:hover{
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: #f6bd14;
+    color: black;
+    transition: 1000ms ease;
+}
+
+.register-btn-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}  
+
+.more-info{
+    background-color: whitesmoke;
+    height: 150vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.description{
+    padding: 0 20px;
+}
+
+.Rules{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 0 20px;
+}
+
+.room-vid{
+    height: 400px;
+}

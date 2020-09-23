@@ -57,9 +57,10 @@ function MoreInfo() {
                         <ul>
                             <li>Pay the entrance fee for the tournament through an available payment method and take a picture or screenshot of the payment</li>
                             <li>Click the register button at the bottom of the page to access the register form.</li>
-                            <li>Complete the form with all the correct information and payment screenshot</li>
-                            <li>Once the form is completed and submitted, you will be added to a whatsapp group</li>
-                            <li>The room key and password will be added to the group 30mins before the match starts</li>
+                            <li>Complete the form with all the correct information and payment screenshot.</li>
+                            <li>Once the form is completed and submitted, you will be added to a whatsapp group.</li>
+                            <li>The room key and password will be added to the group 30mins before the match starts.</li>
+                            <li>The deadline for registration is OCTOBER 12 2020.</li>
                         </ul>
                     </div>
                 </div>
@@ -94,7 +95,7 @@ function MoreInfo() {
             </div>
             </div>
             <div className="register-btn-cont">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfoQ9ZVqXhWAW-41wrkZUEAz14506XtkYDTuTDYxDzbQN1Kg/viewform?usp=sf_link"><button className="register-btn">REGISTER</button></a>
+                <a className="register-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdfoQ9ZVqXhWAW-41wrkZUEAz14506XtkYDTuTDYxDzbQN1Kg/viewform?usp=sf_link">REGISTER</a>
             </div>
         </div>
     )

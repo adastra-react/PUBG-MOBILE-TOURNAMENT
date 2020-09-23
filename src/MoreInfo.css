@@ -18,7 +18,15 @@
     src: url(./fonts/cityboys/CityBoysSoft-Regular.otf);
   }
 
+.more-info{
+    display: flex;
+    flex-direction: row;
+   
+  }  
+
 .more-inf{
+  margin: 0;
+  padding: 0;
   height: ;
 }  
 
@@ -75,4 +83,74 @@ li{
 
 .room-vid{
     height: 400px;
+}
+
+@media only screen and (max-width: 1588px){
+
+    .more-info{
+      display: flex;
+      flex-direction: column;
+      height: 1900px;
+    }  
+}
+
+@media only screen and (max-width: 774px){
+  .room-vid{
+    width: 500px;
+  }
+
+  .register-btn-cont{
+    height: 100px;
+  }
+
+  .register-btn{
+transform: scale(0.6);   
+  }
+
+  .more-info{
+    height: 2400px;
+  }
+}
+
+@media only screen and (max-width: 572px){
+    .room-vid{
+      transform: scale(0.6);
+    }
+
+    .room-vid-cont{
+      display: flex;
+      justify-content: center;
+      width: auto;
+     
+    }
+
+    .more-inf{
+      height: 100%;
+    }
+
+    .more-info{
+      height: 2600px;
+    }
+}
+
+@media only screen and (max-width: 418px){
+
+}
+
+@media only screen and (max-width: 415px){
+    .more-info{
+      height: 2900px;
+    }
+}
+
+@media only screen and (max-width: 376px){
+  .more-info{
+    height: 3100px;
+  }
+}
+
+@media only screen and (max-width: 320px){
+  .more-info{
+    height: 3500px;
+  }
 }

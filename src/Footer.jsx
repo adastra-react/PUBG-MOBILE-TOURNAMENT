@@ -16,7 +16,7 @@ function Footer() {
                     <div className="card-txt">
                         <h2 className="card-main-text">Knowledge Base</h2>
                         
-                        <span className="card-sub-text"><a href="">Answer to all your questions about the platform (click)</a> </span>
+                        <span className="card-sub-text"><a href="#">Answer to all your questions about the platform (click)</a></span>
                     </div>
                 </div>
                 <div className="card">
@@ -26,7 +26,7 @@ function Footer() {
                     <div className="card-txt">
                         <h2 className="card-main-text">Email Us </h2>
                         
-                        <span className="card-sub-text"><a href="mailto:gamerzallure@gmail.com">gamerzallure@gmail.com (click)</a> </span>
+                        <span className="card-sub-text"><a href="mailto:gamerzallure@gmail.com">gamerzallure@gmail.com (click)</a></span>
                     </div>
                 </div>
                 <div className="card">
@@ -36,7 +36,7 @@ function Footer() {
                     <div className="card-txt">
                         <h2 className="card-main-text">Instagram Us</h2>
                         
-                        <span className="card-sub-text"><a href="https://www.instagram.com/gamerzallure/">@gamerzallure (click)</a> </span>
+                        <span className="card-sub-text"><a href="https://www.instagram.com/gamerzallure/">@gamerzallure (click)</a></span>
                     </div>
                 </div>
             </div>

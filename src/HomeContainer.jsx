@@ -18,7 +18,7 @@ function HomeContainer() {
                             <h1 className="prm-text">Gamerz Allure's</h1>
                             <h1 className="prm-text">PUBG mobile Tournament</h1>
                             
-                            <Link to="./moreinfo"><button className="more-btn">mORE INFO</button></Link>
+                            <Link to="./moreinfo"><button className="more-btn">MORE INFO</button></Link>
                               
                         </div>
                     </div>
@@ -44,7 +44,7 @@ function HomeContainer() {
                         <img className="grid-2-logo" src={PubgLogo} alt=""/>
                         <div className="grid-2-info">
                             <h2 className="admission-price">admission price $2000JMD</h2>
-                            <h2 className="date">date october 14 2020</h2>
+                            <h2 className="date">date october 17 2020</h2>
                             {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfoQ9ZVqXhWAW-41wrkZUEAz14506XtkYDTuTDYxDzbQN1Kg/viewform?usp=sf_link"><button className="register-btn-2">more info</button></a> */}
                     </div>
                     </div>

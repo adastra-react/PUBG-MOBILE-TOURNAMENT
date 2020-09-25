@@ -136,7 +136,7 @@ a{
         .footer-logo{
             transform: scale(0.7);
             width: 390px;
-            height: auto;
+            height: 300px;
         }
 
         .card{
@@ -152,7 +152,7 @@ a{
     @media only screen and (max-width: 376px){
         .footer-logo{
             width: 480px;
-            height: auto;
+            height: 400px;
         }
     }
   

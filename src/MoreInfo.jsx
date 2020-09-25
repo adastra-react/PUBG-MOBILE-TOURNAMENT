@@ -9,7 +9,7 @@ function MoreInfo() {
             <div  className="more-info">
             <div className="Rules">
                 <div className="gen-rules">
-                <h1>RULES (PLEASE READ CAREFULLY)</h1>
+                <h1 className="headers">RULES (PLEASE READ CAREFULLY)</h1>
                 <br/>  
                 <span>General Rules</span>
                     <ol>
@@ -53,7 +53,7 @@ function MoreInfo() {
 
             <div className="description">
                 <div>
-                    <h1>DESCRIPTION (PLEASE READ CAREFULLY)</h1>
+                    <h1 className="headers">DESCRIPTION (PLEASE READ CAREFULLY)</h1>
                     <div className="desc-reg">
                         <span>How to register</span>
                         <ul>

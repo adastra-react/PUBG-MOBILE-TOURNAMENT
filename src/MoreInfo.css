@@ -34,7 +34,7 @@ li{
     font-family: verFont;
 }
 
-  h1, h2{
+   h2, .headers{
       font-family: squartiqa;
   }
 
@@ -154,12 +154,22 @@ transform: scale(0.6);
     .more-info{
       height: 3400px;
     }
+
+    h2{
+      font-size: 15px;
+    }
+  
+    .headers{
+      font-size: 20px;
+    }
 }
 
 @media only screen and (max-width: 376px){
   .more-info{
     height: 3700px;
   }
+
+ 
 }
 
 @media only screen and (max-width: 320px){

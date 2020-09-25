@@ -70,12 +70,21 @@ li{
     grid-template-columns: 50% 50%;
 }
 
+video{
+  outline: none;
+}
+
 .description{
     padding: 0 20px;
 }
 
 .prize-info{
-  text-align: justify;
+  text-align: ;
+  
+}
+
+.prize-list{
+  text-align: ce;
 }
 
 .Rules{

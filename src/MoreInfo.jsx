@@ -90,10 +90,10 @@ function MoreInfo() {
                     <div className="prize">
                         <h2>Prize</h2>
                         <div className="prize-info">
-                            <ul>
-                                <li>1st place - <strong><span>$25000JMD</span></strong> </li>
-                                <li>2nd place - <strong><span>$15000JMD</span></strong> </li>
-                                <li>3rd place - <strong><span>$8000JMD</span></strong></li>
+                            <ul className="prize-list">
+                                <li>1st place ➡ <strong><span>$25000JMD</span></strong> </li>
+                                <li>2nd place ➡ <strong><span>$15000JMD</span></strong> </li>
+                                <li>3rd place ➡ <strong><span>$8000JMD</span></strong></li>
                                 <li>For players who have won prizes, the prize cash will be sent via payment method of choice within 48 hours.</li>
                             </ul>
                         </div>

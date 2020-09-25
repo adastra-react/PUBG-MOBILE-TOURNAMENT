@@ -71,7 +71,7 @@ li{
 }
 
 video{
-  outline: none;
+  outline: nonep;
 }
 
 .description{
@@ -164,6 +164,6 @@ transform: scale(0.6);
 
 @media only screen and (max-width: 320px){
   .more-info{
-    height: 3600px;
+    height: 3700px;
   }
 }

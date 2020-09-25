@@ -35,9 +35,9 @@ function MoreInfo() {
                 <div className="tourn-rules">
                     <h2>TOURNAMENT RULES</h2>
                     <ol>
-                        <li>only the first 500 Registrations are allowed.</li>
+                        <li>Only the first 500 Registrations are allowed.</li>
                         <li>Only mobile phones are allowed, no Emulators.</li>
-                        <li>Teaming with other players will result in permanent a ban from the match and may result in Ban from the tournament.</li>
+                        <li>Teaming with other players will result in permanent a ban from the match and may result in ban from the tournament.</li>
                         <li>Players must use the PUBG Mobile Username/IGN/Gamer tag provided in the registration form for the tournament. Any change in username should be reported to support at least 4 hours before the match time.</li>
                         <li>Never share room code with non-registered players.</li>
                         <li>Unregistered players and players who have not paid the entrance fee will be barred from joining tournament.</li>
